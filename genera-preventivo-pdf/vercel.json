@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/genera-preventivo-pdf.js": {
+      "maxDuration": 60
+    }
+  }
+}
