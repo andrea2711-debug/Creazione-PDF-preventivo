@@ -1,8 +1,0 @@
-{
-  "name": "genera-preventivo-pdf",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "pdfmake": "^0.2.10"
-  }
-}
